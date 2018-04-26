@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899 12 30 00:00:00.000.833,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Main.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.877,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Project1PCH1.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FS_searchPCH1.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.897,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FS_search.cbproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.251,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Project1PCH1.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.833,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Main.dfm</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.672,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.833,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Main.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.117,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018 04 26 10:14:07.822,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.pas</Transaction>
+    <Transaction>2018 04 26 10:14:31.000,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:14:50.466,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\IteratorThread.cpp=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:14:50.466,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\IteratorThread.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.h</Transaction>
+    <Transaction>2018 04 26 10:16:33.320,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:16:45.363,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\SearchThread.cpp=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:16:45.363,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\SearchThread.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.h</Transaction>
+    <Transaction>2018 04 26 10:18:08.702,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:18:23.903,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Patterns.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.h</Transaction>
+    <Transaction>2018 04 26 10:18:23.903,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Patterns.cpp=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:19:13.586,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:19:26.573,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FileSystemClass.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.h</Transaction>
+    <Transaction>2018 04 26 10:19:26.573,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FileSystemClass.cpp=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:22:20.737,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:22:27.657,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\NTFS.cpp=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:22:27.657,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\NTFS.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.h</Transaction>
+    <Transaction>2018 04 26 10:22:31.301,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.pas</Transaction>
+    <Transaction>2018 04 26 10:22:36.671,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FAT.pas=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.pas</Transaction>
+    <Transaction>2018 04 26 10:22:44.805,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:22:50.964,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\exFAT.cpp=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:22:50.964,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\exFAT.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.h</Transaction>
+    <Transaction>2018 04 26 10:24:38.137,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:24:55.102,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FSIterators.cpp=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:24:55.102,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FSIterators.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.h</Transaction>
+    <Transaction>2018 04 26 10:26:15.986,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FAT.pas=</Transaction>
+    <Transaction>2018 04 26 10:26:22.000,=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:26:27.133,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FAT.cpp=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.cpp</Transaction>
+    <Transaction>2018 04 26 10:26:27.133,C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\FAT.h=C:\Users\User\Documents\GitHub\FileSystem-lowlevel-signature-searchng\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
